@@ -1,4 +1,4 @@
-#Javascript QR code generator
+# Javascript QR code generator
 
 This is a simple QR code generator app using Javascript.
 
